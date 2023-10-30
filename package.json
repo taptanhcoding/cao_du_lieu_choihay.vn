@@ -1,0 +1,16 @@
+{
+  "name": "cao_du_lieu_can_nang_cap_nhieu_lam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^21.4.1"
+  }
+}
